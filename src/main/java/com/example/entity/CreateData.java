@@ -17,4 +17,5 @@ public class CreateData {
     private double latitude;
     private double longitude;
     private boolean excluded;
+    private double mobile;
 }
